@@ -1,4 +1,4 @@
-function numberToLetter(number, currency, cents) {
+export function numberToLetter(number, currency, cents) {
 
   const letter = {
     0: "zéro",
